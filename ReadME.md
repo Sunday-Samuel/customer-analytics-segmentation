@@ -573,38 +573,6 @@ Implications:
 
 ---
 
-## About the Author
-
-**Samuel (Sunday Iyanu Samuel)**
-
-Engineering Background:
-- B.Tech in Agricultural and Bioresources Engineering
-- Federal University of Technology, Minna (Second Class Upper)
-
-Current Work:
-- Physics, Mathematics, Coding, Robotics, Embedded Systems (Smart Icons Transnational School)
-- NYSC Service Year
-
-Professional Development:
-- Drone & Robotics Training (WAAW Foundation)
-- Data Science & Machine Learning (Self-Study)
-- ROS 2 & Embedded Systems
-- Building scholarship mentorship initiative
-
-Career Vision:
-- Graduate study: Precision Agriculture + AI/ML + Robotics
-- Research facility for African agricultural problems
-
----
-
-## Contact & Connect
-
-LinkedIn: [Your Profile]
-Email: [Your Email]
-GitHub: [Your Profile]
-
----
-
 ## License
 
 This project is licensed under the MIT License - see LICENSE file for details.
@@ -613,17 +581,9 @@ This project is licensed under the MIT License - see LICENSE file for details.
 
 ## Acknowledgments
 
-- UK Online Retail Dataset (UCI Machine Learning Repository)
+- UK Online Retail Dataset (Chen, D. (2015). Online Retail [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5BW33.)
 - Scikit-learn & Python data science community
 - Academic literature on customer segmentation
 - Real-world customer analytics practices
 
 ---
-
-**Status**: Production-Ready | Last Updated: October 2026 | Version: 1.0
-
-**This project demonstrates professional-grade data science capabilities combining technical rigor with business acumen.**
-
----
-
-Made with data, driven by insights.
