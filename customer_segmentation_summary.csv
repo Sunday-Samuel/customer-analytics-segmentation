@@ -1,0 +1,5 @@
+Cluster,Name,Customer_Count,Total_Revenue,Avg_Spend,Avg_Frequency,Avg_Recency
+0,Regulars/Mid-tier,3054,"£4,133,972",£1353.63,3.7,44
+1,Regulars/Mid-tier,1067,"£510,932",£478.85,1.6,248
+2,Champions/VIP,13,"£1,653,443",£127187.96,82.5,7
+3,Regulars/Mid-tier,204,"£2,588,862",£12690.50,22.3,16
