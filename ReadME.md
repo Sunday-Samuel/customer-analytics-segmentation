@@ -377,10 +377,10 @@ Timeline: Continuous
 **Local Setup** (5 minutes)
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/Operation-Deploy.git
+git clone https://github.com/Sunday-Samuel/customer-analytics-segmentation.git
 
 # Install dependencies
-pip install pandas scikit-learn matplotlib seaborn jupyter
+pip install numpy pandas scikit-learn matplotlib seaborn jupyter
 
 # Start Jupyter
 jupyter notebook
